@@ -1,5 +1,5 @@
 // Service worker BLOBBACK: po pierwszym uruchomieniu gra działa offline.
-const VERSION = 'blobback-75501faa09';
+const VERSION = 'blobback-aacd5cdb19';
 const FILES = ["./","./apple-touch-icon.png","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./index.html","./manifest.webmanifest","./three.LICENSE.txt","./three.module.min.js"];
 const FONTS = 'blobback-fonts';
 
